@@ -2,11 +2,10 @@
 
 
 
-# 👋 Hi, I’m alireza mohammadian
+# 👋 Hi, I’m alireza
 # 👀 I’m interested in flutter
 # 🌱 I’m currently learning flutter
 # 📫 a.mohammadian36@gmail.com
-# Linkedin: linkedin.com/in/alireza-mohammadian-8957aa225
 
 <a href="https://www.linkedin.com/in/alireza-mohammadian-8957aa225/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
