@@ -5,7 +5,8 @@
 My coding journey started with a love for **Flutter**, and I've never looked back. Crafting beautiful and functional mobile applications is my forte, and I'm excited to bring my expertise to the **freelancing** world. I believe that technology has the power to reshape industries, and I'm dedicated to making an impact, one Flutter app at a time.
 
 ### 📬 Reach Out
-Email: alireza4585@example.com
+Email: a.mohammadian36@gmail.com
+</br> </br>
 <a href="https://www.linkedin.com/in/alireza-mohammadian-8957aa225/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
